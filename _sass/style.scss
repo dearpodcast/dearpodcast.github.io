@@ -28,8 +28,7 @@ body {
     }
 
     h1,h2,h3,h4,h5,h6 {
-         font-family: 'Futura PT', 'Futura', 'Raleway', 'Martel', 'EB Garamond', 'Titillium Web', "Lato", "Helvetica Neue", Helvetica, sans-serif;
-         font-weight: Black, bold;
+         font-family: 'Futura PT', 'Futura', 'Raleway', 'Martel', 'EB Garamond', "Helvetica Neue", Helvetica, sans-serif;
          line-height: 1;
          margin: 0;
     }
@@ -111,8 +110,7 @@ blockquote {
 
 
 .headline {
-    font-size: 4em;
-    letter-spacing: 10px;
+    font-size: 2.3em;
         @include media-query($on-palm) {
             font-size: 2em;
             letter-spacing: 5px;
@@ -120,7 +118,7 @@ blockquote {
 }
 
 .post-headline {
-    font-size: 4em;
+    font-size: 2.3em;
     padding-top: 10px;
         @include media-query($on-palm) {
             font-size: 1.5em;

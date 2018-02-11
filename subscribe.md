@@ -1,7 +1,7 @@
 ---
-title: SAMPLES
+title: subscribe
 layout: default
-permalink: /samples/
+permalink: /subscribe/
 ---
 
 Keep an eye on this page! Come back soon!
