@@ -1,0 +1,11 @@
+---
+title: news
+layout: main
+permalink: /news/
+---
+<br /><br />
+{% for post in site.posts %}
+	<center><h2><a href="{{ post.url }}">{{ post.title }}</a><h2><br />
+	<h4>{{ post.excerpt }}</h4></center>
+	<br /><br />
+{% endfor %}
