@@ -10,4 +10,4 @@ Initially a project to keep ourselves making oddball radio, the kind of stuff we
 
 We have more episodes and a new approach coming in the near future, so stay tuned!
 
-Follow us on Twitter: (@dear_podcast)[http://twitter.com/dear_podcast]
+Follow us on Twitter: [@dear_podcast](http://twitter.com/dear_podcast)

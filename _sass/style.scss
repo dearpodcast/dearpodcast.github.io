@@ -9,6 +9,33 @@ html, body {
     height: 100%;
 }
 
+.column {
+    float: left;
+}
+
+.left {
+    width: 60%;
+}
+
+.right {
+    width: 40%;
+}
+
+@media (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+
+hr { 
+    background-color: #ec5f39; 
+    border-color: #ec5f39; 
+    margin-left:50px;
+    margin-right:50px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
 body {
         max-width: $content-width;
         background-color: #026864;
