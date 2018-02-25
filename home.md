@@ -1,7 +1,6 @@
 ---
-title: Dear
 layout: home
-permalink: /home/
+permalink: /about/
 ---
 
 <div class="row">
