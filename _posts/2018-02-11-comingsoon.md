@@ -1,7 +1,7 @@
 ---
 title: "Coming soon!"
 layout: post
-permalink: /comingsoon/
+permalink: /comingsoon
 excerpt: "New stuff coming this way."
 ---
 

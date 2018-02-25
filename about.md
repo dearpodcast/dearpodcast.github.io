@@ -1,7 +1,7 @@
 ---
 title: about
 layout: main
-permalink: /about/
+permalink: /about
 ---
 
 Dear is a podcast wherein Brie Ripley and Davis Land exchange letters -- audio letters.
