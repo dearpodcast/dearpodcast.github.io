@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<url>
+  <loc>http://dear.audio/</loc>
+  <lastmod>2018-02-25T06:00:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://dear.audio/about/</loc>
+  <lastmod>2018-02-25T06:00:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dear.audio/news/</loc>
+  <lastmod>2018-02-25T06:00:50+00:00</lastmod>
+  <priority>0.30</priority>
+</url>
+<url>
+  <loc>http://dear.audio/subscribe/</loc>
+  <lastmod>2018-02-25T06:00:50+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>http://dear.audio/comingsoon/</loc>
+  <lastmod>2018-02-25T06:00:50+00:00</lastmod>
+  <priority>0.20</priority>
+</url>
+</urlset>
