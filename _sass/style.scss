@@ -21,6 +21,36 @@ html, body {
     width: 40%;
 }
 
+.short-box {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 4px 0;
+    box-sizing: border-box;
+}
+
+.message-box {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 4px 0;
+    box-sizing: border-box;
+}
+
+.form-position {
+    margin: auto;
+    width: 50%;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: $brand-color;
+    border: none;
+    font-weight: bold;
+    color: $background-color;
+    padding: 7px 14px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
 @media (max-width: 600px) {
     .column {
         width: 100%;
