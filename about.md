@@ -4,11 +4,11 @@ layout: main
 permalink: /about
 ---
 
-Dear is a podcast wherein Brie Ripley and Davis Land exchange letters -- audio letters.
+Dear is a collection of audio poscards, short vingettes, 'found sound,' and more. 
 
-Initially a project to keep ourselves making oddball radio, the kind of stuff we can't make at our jobs as public radio reporters, Dear has become a beast in its own right, where bits and pieces of our lives manifest themselves as short audio vignettes. 
+In 2017, Davis Land and Brie Ripley began exchanging letters -- audio letters -- on the feed. Initially a project to keep ourselves making oddball radio, the kind of stuff we couldn't make at our jobs as public radio reporters, Dear became a beast in its own right, where bits and pieces of our lives manifested themselves as short audio vignettes. 
 
-We have more episodes and a new approach coming in the near future, so stay tuned!
+Now, it's mostly Davis who posts to the feed. He occasionally brings on other radio makers who are doing creative and weird audio. Contact Davis <a class="link underline" href="http://davisland.info">here</a> if you want to place a piece of yours on Dear.
 
 Follow us on Twitter: <a class="link underline" href="http://twitter.com/dear_podcast">@dear_podcast</a><br />
 Or follow us on Instagram: <a class="link underline" href="instagram.com/dear.audio">dear.audio</a><br />
