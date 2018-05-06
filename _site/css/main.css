@@ -38,7 +38,7 @@ html, body {
   width: 50%; }
 
 input[type=button], input[type=submit], input[type=reset] {
-  background-color: #EECC4F;
+  background-color: #ec5f39;
   border: none;
   font-weight: bold;
   color: #EECC4F;
@@ -51,7 +51,7 @@ input[type=button], input[type=submit], input[type=reset] {
   .column {
     width: 100%; } }
 hr {
-  background-color: #EECC4F;
+  background-color: #ec5f39;
   border-color: #ec5f39;
   margin-left: 50px;
   margin-right: 50px;
